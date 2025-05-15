@@ -1,0 +1,78 @@
+img{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 100%;
+    border-color: rgba(139, 13, 80, 0.679);
+    border-style: solid;
+    border-width: 5px;
+    border-width: 10px
+    }
+
+
+h1, ul, li, p{
+    text-align: center;
+}
+
+h1{
+    font-family: "Tagesschrift", sans-serif;
+    font-size: 40px;
+    font-weight: 2px;
+    color:rgb(92, 57, 249);
+    background-color: #1e0d73;
+    border-style: solid;
+    border-color: #15064b;
+    border-width: 5px;
+}
+
+p{
+    font-family: "Fira sans", sans-serif;
+    font-weight: 30px;
+    color: rgb(85, 114, 255);
+    font-size: 20px;
+    background-color: #13016a;
+    border-style:solid;
+    border-color: rgb(1, 0, 35);
+    border-width: 5px;
+}
+
+head{
+    font-family:'Fira sans', sans-serif;
+    color: antiquewhite;
+}
+
+.likes{
+     font-family: "Fira sans", sans-serif;
+     font-weight: 20px;
+     text-align: center;
+     font-size: 16px;
+     color: rgb(255, 0, 153);
+     background-color: pink;
+     border-style:solid;
+     border-color: rgb(153, 2, 100);
+     border-width: 5px;
+}
+
+.HATES{
+    font-family: "Fira sans", sans-serif;
+     font-weight: 20px;
+     text-align: center;
+     font-size: 16px;
+     color: rgb(255, 82, 82);   
+     background-color: rgb(128, 0, 0);
+    border-style: solid;
+    border-color: rgb(85, 0, 0);
+    border-width: 5px;
+}
+
+head{
+    font-weight: 100px;
+}
+
+body{
+     background-color: antiquewhite;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
